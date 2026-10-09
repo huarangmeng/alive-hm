@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "保活服务"
+    },
+    {
+      "name": "widget_desc",
+      "value": "应用保活服务卡片"
+    },
+    {
+      "name": "keep_background_running_reason",
+      "value": "需要在后台保持运行以提供持续服务"
+    },
+    {
+      "name": "internet_reason",
+      "value": "需要网络权限以播放在线音频"
+    }
+  ]
+}
